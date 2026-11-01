@@ -1,44 +1,50 @@
-# Hi, I'm Jeet 👋
+<div align="center">
 
-### Data Scientist · Machine Learning · Generative AI
+<img src="assets/profile-banner.svg" alt="Jeet — Data Science, Machine Learning, Generative AI" width="100%">
 
-I build practical data and AI solutions, and I’m growing my skills across machine learning, deep learning, and generative AI.
+# Hi, I'm Jeet
 
-- 🎓 Learning through **Deakin University** and **The University of Texas at Austin**
-- 💼 **6 months of experience at ServiceNow**
-- 🌱 Currently following a hands-on generative AI learning roadmap
-- 🤝 Interested in data science, machine learning, and AI projects
+**Data Science · Machine Learning · Generative AI**
 
----
+[![GitHub followers](https://img.shields.io/github/followers/jeet0111?style=flat&logo=github&label=Followers)](https://github.com/jeet0111?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=jeet0111&style=flat&color=5874d8&label=Profile%20views)](https://github.com/jeet0111)
 
-### Skills & tools
-
-**Data and programming**  
-Python · SQL · Data analysis · Data visualization
-
-**Machine learning and AI**  
-Machine learning · Deep learning · Generative AI
-
-**Tools**  
-Git · GitHub · Jupyter
+</div>
 
 ---
 
-### Featured work
+## About me
 
-🔭 **Deep learning project**  
-I’m building and documenting a deep learning project. More details and source code will be added here as the project is published.
+I’m developing practical skills in data science and AI, with a focus on understanding the foundations and applying them through hands-on work.
+
+- **Areas of focus:** data science, machine learning, deep learning, and generative AI
+- **Learning:** coursework through Deakin University and The University of Texas at Austin
+- **Experience:** ServiceNow
+- **Current direction:** building toward AI engineering with a strong foundation in statistics and machine learning
+
+## Focus areas
+
+| Data science | Machine learning | Generative AI |
+|:--|:--|:--|
+| Explore data and build a sound statistical foundation. | Learn how models work and how to apply them to real problems. | Develop a practical understanding of modern AI systems. |
+
+## Learning path
+
+I’m working through the fundamentals step by step: probability and statistics, machine learning, deep learning, and generative AI. I value understanding the concepts and practicing them in code.
+
+## GitHub
+
+<div align="center">
+
+[![Jeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeet0111&show_icons=true&hide_title=true&theme=transparent)](https://github.com/jeet0111)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeet0111&layout=compact&theme=transparent)](https://github.com/jeet0111?tab=repositories)
+
+</div>
 
 ---
 
-### GitHub
+<div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeet0111&show_icons=true&hide_title=true&theme=transparent)](https://github.com/jeet0111)
+*Thanks for stopping by. Explore my repositories to follow what I’m learning and building.*
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeet0111&layout=compact&theme=transparent)](https://github.com/jeet0111?tab=repositories)
-
----
-
-### Let's connect
-
-Feel free to explore my repositories and connect with me here on GitHub.
+</div>
