@@ -19,7 +19,7 @@ I’m developing practical skills in data science and AI, with a focus on unders
 
 - **Areas of focus:** data science, machine learning, deep learning, and generative AI
 - **Learning:** coursework through Deakin University and The University of Texas at Austin
-- **Experience:** ServiceNow
+- **Experience:** data science and ServiceNow
 - **Current direction:** building toward AI engineering with a strong foundation in statistics and machine learning
 
 ## Focus areas
